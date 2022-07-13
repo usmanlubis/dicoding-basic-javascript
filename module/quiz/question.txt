@@ -1,0 +1,12 @@
+// TODO 1 (Tiger.js):
+//  * Export value from Tiger class
+//  *
+//  * TODO 2 (Wolf.js)
+//  * Export value from Wolf class
+//  *
+//  * TODO 3 (main.js)
+//  * Import Tiger and Wolf Class
+//  *
+//  * TODO 4 (main.js)
+//  * Export function fight, myTiger, myWolf, and result
+//  */
